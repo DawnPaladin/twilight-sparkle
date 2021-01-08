@@ -9,6 +9,7 @@
     "categories": [
         "Themes"
     ],
+    "icon": "icon.png",
     "publisher": "DawnPaladin",
     "repository": {
         "type": "git",
