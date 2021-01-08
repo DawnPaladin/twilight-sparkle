@@ -1,0 +1,21 @@
+{
+    "name": "twilight-sparkle",
+    "displayName": "Twilight Sparkle",
+    "description": "Purple princess, master of magic, she'll keep your code organized and meticulously documented.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Twilight Sparkle",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Twilight Sparkle-color-theme.json"
+            }
+        ]
+    }
+}
