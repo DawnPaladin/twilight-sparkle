@@ -2,7 +2,7 @@
     "name": "twilight-sparkle",
     "displayName": "Twilight Sparkle",
     "description": "Purple princess, master of magic, she'll keep your code obsessively organized and meticulously documented.",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.52.0"
     },
