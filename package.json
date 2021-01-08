@@ -9,6 +9,7 @@
     "categories": [
         "Themes"
     ],
+    "publisher": "DawnPaladin",
     "contributes": {
         "themes": [
             {
